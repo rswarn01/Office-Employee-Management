@@ -3,3 +3,5 @@ This is a learning project, to understand things about Django and integrations w
 
 This is an app to manage employee data i.e. new joinie, remove employee etc.
 User can Register, Login, see employee details, add new employee, remove employee. 
+
+More functionality can be added like update details, emails, signals etc.
